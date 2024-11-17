@@ -1,1 +1,1 @@
-# Projet_Big_Data_Spark
+J’ai défini et exploré une base de données Movies (provenant de Kaggle) pour effectuer un prétraitement des données. J’ai appliqué l’Analyse en Composantes Principales (ACP) pour sélectionner les meilleures caractéristiques, puis utilisé Spark MLlib pour construire un modèle de classification et effectuer des prédictions.
